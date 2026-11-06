@@ -1,0 +1,37 @@
+body {
+	background-color: grey;
+	color: red;
+	font-family: sans-serif;
+}
+	
+h2 {
+	color: orange;
+} 
+h1 {
+	color: orange;
+} 
+
+.destaques {
+	background-color: green;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+	max-width: 100%;
+}
+
+.um {
+	color: #FFFFFF;
+}
+
+a {
+	position: fixed;
+	bottom: 0;
+    left: 0;
+}
+/*
+1.Eu achei algumas dificuldades na parte de conectar o css ao index.html, mas depois reparei que estava a meter o nome estilo.css com mais um s logo aquilo não me conectava.
+2.Foi claramente esquecer-me da virgula nom fim de cada linha de código no CSS.
+3.Eu escolhi o atributo src que serve para podermos direcionar o caminho e o próprio nome da imagem que queremos que apareca na página.
+*/
